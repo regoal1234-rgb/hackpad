@@ -2,10 +2,8 @@
 Hello! This is my submission for hackpad! This was made for Hackpad v1.
 
 ## Features
-- 4x Neopixels!
 - A big 0.96" OLED screen
-- Cool silkcreen art
-- 16x whole kailh choc keys (they were allowed for v1)
+- 16x whole cherry keys 
 - kmk firmware! Control your mouse with this macropad
 
 ## PCB
