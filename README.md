@@ -1,4 +1,4 @@
-# Cyao's mega macropad
+# Junsuh's macropad
 Hello! This is my submission for hackpad! This was made for Hackpad v1.
 
 ## Features
