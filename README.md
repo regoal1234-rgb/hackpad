@@ -21,7 +21,7 @@ Here are pictures of my pcb:
 ## CAD
 Designed using FreeCAD! It was painful. Be glad you have the current guide, I spent 10+ hours figuring out how to do everything correctly (and even like this I still did stupid stuff).
 
-![img](https://github.com/regoal1234-rgb/img/blob/408740627681958383da83e0f286efe40ce83e7d/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202025-12-18%20000116.png)
+![img](https://github.com/regoal1234-rgb/img/blob/main/final.png)
 
 Everything fits together with 4 m3 screws and bolts
 
