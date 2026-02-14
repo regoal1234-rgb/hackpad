@@ -12,7 +12,7 @@ Here are pictures of my pcb:
 | **Schematic** | **PCB** |
 |---------------|---------|
 |![img](https://github.com/regoal1234-rgb/img/blob/408740627681958383da83e0f286efe40ce83e7d/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202025-12-18%20000135.png)|
-![img](https://github.com/regoal1234-rgb/img/blob/408740627681958383da83e0f286efe40ce83e7d/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202025-12-18%20000128.png)|
+![img](https://github.com/regoal1234-rgb/img/blob/6953c1e33204437bb5a0ed8c01bc25342962ffd1/final-2.jpg)|
 
 
 
