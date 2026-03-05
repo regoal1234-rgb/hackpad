@@ -19,7 +19,7 @@ Here are pictures of my pcb:
 [x] I ran DRC and there are 0 errors
 
 ## CAD
-Designed using FreeCAD! It was painful. Be glad you have the current guide, I spent 10+ hours figuring out how to do everything correctly (and even like this I still did stupid stuff).
+Designed using Autodesk Fusion! It was painful. Be glad you have the current guide, I spent 10+ hours figuring out how to do everything correctly (and even like this I still did stupid stuff).
 
 ![img](https://github.com/regoal1234-rgb/img/blob/aed19abdb678c6f83908cacce41fac740f18d572/fffinal.png)
 
