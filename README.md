@@ -42,3 +42,9 @@ Making the pad was fun enthough i went through hardships. Ended up learning how 
 - 1x EC11 Rotary encoders
 - 4x M3x16mm screws
 - 4x M3x5mx4mm heatset inserts
+
+CAD Source
+
+The CAD source file for this project is included below.
+
+Fusion 360 file (.f3d): https://github.com/regoal1234-rgb/hackpad/blob/main/CAD/final.f3z
