@@ -3,7 +3,7 @@ Hello! This is my submission for hackpad! This was made for Hackpad v1.
 
 ## Features
 - A big 0.96" OLED screen
-- 16x whole cherry keys 
+- 15x whole cherry keys 
 - kmk firmware! Control your mouse with this macropad
 
 ## PCB
