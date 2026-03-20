@@ -15,6 +15,18 @@ keyboard.diode_orientation = DiodeOrientation.COL2ROW
 keyboard.encoder = encoder_handler
 keyboard.keymap = keymap
 
+import time
+import board
+import digitalio
+
+led = digitalio.DigitalInOut(board.LED)
+led.direction = digitalio.Direction.OUTPUT
+
+while True:
+    led.value = True
+    time.sleep(0.5)
+    led.value = False
+    time.sleep(0.5)
 def after_layer_change(keyboard):
     update_oled(keyboard.active_layers[0])
 
